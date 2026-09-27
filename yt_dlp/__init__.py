@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 import sys
 
 if sys.version_info < (3, 10):
